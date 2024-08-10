@@ -1,7 +1,7 @@
 Predictive Modeling for Stock Options Pricing
 ---
 **Overview**
-This project focuses on optimizing the valuation and pricing of stock options using machine learning models. We aimed to improve the predictive accuracy of option prices compared to traditional methods like the Black-Scholes model.
+- This project focuses on optimizing the valuation and pricing of stock options using machine learning models. We aimed to improve the predictive accuracy of option prices compared to traditional methods like the Black-Scholes model.
 
 **Methods**
 - Exploratory Data Analysis (EDA): Conducted thorough EDA to understand the dataset, identify key features, and ensure data quality.
@@ -16,7 +16,7 @@ This project focuses on optimizing the valuation and pricing of stock options us
 - Classification: XGBoost also excelled in classification tasks with a classification accuracy of 94.42%, outperforming other models.
 
 **Findings**
-XGBoost was identified as the optimal model for both regression and classification, thanks to its ability to capture complex, non-linear relationships in the data.
+- XGBoost was identified as the optimal model for both regression and classification, thanks to its ability to capture complex, non-linear relationships in the data.
 Feature engineering, particularly the inclusion of intrinsic value and moneyness, significantly improved model accuracy.
 Machine learning models, especially XGBoost, offer greater flexibility and accuracy in option pricing compared to traditional methods.
 

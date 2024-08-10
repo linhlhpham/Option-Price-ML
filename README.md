@@ -1,4 +1,3 @@
-# Option-Price-ML
 Predictive Modeling for Stock Options Pricing
 ---
 **Overview**
@@ -23,4 +22,4 @@ Machine learning models, especially XGBoost, offer greater flexibility and accur
 
 1. EDA: https://colab.research.google.com/drive/1nHIpa_LJ7AALZDVAxdZHxXzRLfdQ3Jgr?usp=sharing
 2. Regression Models: https://colab.research.google.com/drive/13FJsXto6rr6m-O_lyBX1W79VxXQdHTIk?usp=sharing
-3: Classification Models: https://colab.research.google.com/drive/1ZL1KpN-ayBskdhZy8T25PqQ5Xq59ehsv?usp=sharing
+3. Classification Models: https://colab.research.google.com/drive/1ZL1KpN-ayBskdhZy8T25PqQ5Xq59ehsv?usp=sharing
